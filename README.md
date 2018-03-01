@@ -2,4 +2,4 @@
 
 #AS part of Associate AWS Certification. which i am studying for.
 
-All projet are aVailable on AWS Cloud.
+All projects are aVailable on AWS Cloud.
